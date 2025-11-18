@@ -1,0 +1,13 @@
+{
+    "name": "axelstx/otus-composer",
+    "description": "PHP string processor",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Axelstx\\OtusComposer\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
